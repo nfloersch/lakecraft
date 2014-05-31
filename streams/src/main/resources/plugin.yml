@@ -1,0 +1,9 @@
+name: {streams}
+main: {streams}.{streams}
+version: {0.01}
+commands:
+   basic:
+      description: This is a demo command.
+      usage: /<command> [player]
+      permission: streams.basic
+      permission-message: You don't have permission
